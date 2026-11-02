@@ -1,0 +1,6 @@
+{
+  "name": "Realtime Messaging Client",
+  "description": "A sleek, premium, dark-themed real-time chat client similar to Telegram or Discord, featuring beautiful glassmorphism, responsive contact filters, and complete socket.io delivery status indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
